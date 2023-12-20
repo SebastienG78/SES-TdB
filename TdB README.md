@@ -1,0 +1,1 @@
+Creation of specific dashboards for each client using Excel. Operation registers feed monthly quantitative and economic reports, as well as KPI visualizations enabling better management of activities.
